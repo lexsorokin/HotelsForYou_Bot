@@ -1,0 +1,914 @@
+{
+    "result": "OK",
+    "data": {
+        "body": {
+            "header": "Moscow, Idaho, United States of America",
+            "query": {
+                "destination": {
+                    "id": "1449014",
+                    "value": "Moscow, Idaho, United States of America",
+                    "resolvedLocation": "CITY:1449014:UNKNOWN:UNKNOWN"
+                }
+            },
+            "searchResults": {
+                "totalCount": 47,
+                "results": [
+                    {
+                        "id": 45581792,
+                        "name": " FairBridge Inn - Moscow",
+                        "starRating": 2.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "101 Baker Street",
+                            "extendedAddress": "",
+                            "locality": "Moscow",
+                            "postalCode": "83843",
+                            "region": "ID",
+                            "countryName": "United States",
+                            "countryCode": "us",
+                            "obfuscate": false
+                        },
+                        "welcomeRewards": {
+                            "collect": true
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 6.4,
+                            "rating": "6.4",
+                            "total": 666,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "Good"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "City center",
+                                "distance": "0.9 miles"
+                            },
+                            {
+                                "label": "University of Idaho",
+                                "distance": "0.4 miles"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$69",
+                                "exactCurrent": 68.97,
+                                "old": "$77",
+                                "fullyBundledPricePerStay": "total $92"
+                            },
+                            "features": {
+                                "freeCancellation": false,
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            },
+                            "type": "EC"
+                        },
+                        "neighbourhood": "Moscow",
+                        "deals": {
+                            "specialDeal": {
+                                "dealText": "Mobile exclusive: save 10%"
+                            },
+                            "priceReasoning": "DRR-444"
+                        },
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 46.733709,
+                            "lon": -117.020747
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 1393181,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/2000000/1400000/1393200/1393181/17499577_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 213743,
+                        "name": "Super 8 by Wyndham Moscow",
+                        "starRating": 2.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "175 Peterson Dr",
+                            "extendedAddress": "",
+                            "locality": "Moscow",
+                            "postalCode": "83843",
+                            "region": "ID",
+                            "countryName": "United States",
+                            "countryCode": "us",
+                            "obfuscate": false
+                        },
+                        "welcomeRewards": {
+                            "collect": true
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 6.4,
+                            "rating": "6.4",
+                            "total": 677,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "Good"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "City center",
+                                "distance": "0.7 miles"
+                            },
+                            {
+                                "label": "University of Idaho",
+                                "distance": "0.3 miles"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$84",
+                                "exactCurrent": 84.0,
+                                "fullyBundledPricePerStay": "total $91"
+                            },
+                            "features": {
+                                "freeCancellation": false,
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            },
+                            "type": "EC"
+                        },
+                        "neighbourhood": "Moscow",
+                        "deals": {},
+                        "messaging": {
+                            "scarcity": "1 left on our app"
+                        },
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|priceRangeUS|TESCO",
+                        "coordinate": {
+                            "lat": 46.734055,
+                            "lon": -117.01633
+                        },
+                        "roomsLeft": 1,
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 51102,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/1000000/60000/51200/51102/89a319a7_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 206843,
+                        "name": "La Quinta Inn & Suites by Wyndham Moscow Pullman",
+                        "starRating": 2.5,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "185 Warbonnet Dr",
+                            "extendedAddress": "",
+                            "locality": "Moscow",
+                            "postalCode": "83843",
+                            "region": "ID",
+                            "countryName": "United States",
+                            "countryCode": "us",
+                            "obfuscate": false
+                        },
+                        "welcomeRewards": {
+                            "collect": true
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 8.4,
+                            "rating": "8.4",
+                            "total": 1032,
+                            "scale": 10,
+                            "badge": "very-good",
+                            "badgeText": "Very Good"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "City center",
+                                "distance": "1.8 miles"
+                            },
+                            {
+                                "label": "University of Idaho",
+                                "distance": "1.2 miles"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$119",
+                                "exactCurrent": 119.0
+                            },
+                            "features": {
+                                "freeCancellation": false,
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            },
+                            "type": "EC"
+                        },
+                        "neighbourhood": "Moscow",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|MESOTESTUS|XMPV2|HRW|TESCO",
+                        "coordinate": {
+                            "lat": 46.733925,
+                            "lon": -117.039172
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 904780,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/1000000/910000/904800/904780/ff02a96e_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 703890496,
+                        "name": "Monarch Motel",
+                        "starRating": 2.5,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "120 West 6th Street",
+                            "extendedAddress": "",
+                            "locality": "Moscow",
+                            "postalCode": "83843",
+                            "region": "ID",
+                            "countryName": "United States",
+                            "countryCode": "us",
+                            "obfuscate": false
+                        },
+                        "welcomeRewards": {
+                            "collect": true
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 9.0,
+                            "rating": "9.0",
+                            "total": 319,
+                            "scale": 10,
+                            "badge": "superb",
+                            "badgeText": "Superb"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "City center",
+                                "distance": "0.1 miles"
+                            },
+                            {
+                                "label": "University of Idaho",
+                                "distance": "0.6 miles"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$122",
+                                "exactCurrent": 121.84,
+                                "old": "$135",
+                                "fullyBundledPricePerStay": "total $132"
+                            },
+                            "features": {
+                                "freeCancellation": false,
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            },
+                            "type": "EC"
+                        },
+                        "neighbourhood": "Moscow",
+                        "deals": {
+                            "secretPrice": {
+                                "dealText": "Save more with Secret Prices"
+                            },
+                            "priceReasoning": "DRR-443"
+                        },
+                        "messaging": {
+                            "scarcity": "1 left on our app"
+                        },
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 46.7304,
+                            "lon": -117.00231
+                        },
+                        "roomsLeft": 1,
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 21965328,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/22000000/21970000/21965400/21965328/89303111_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    },
+                    {
+                        "id": 430455,
+                        "name": "Fairfield Inn & Suites Moscow",
+                        "starRating": 2.5,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "1000 W Pullman Rd",
+                            "extendedAddress": "",
+                            "locality": "Moscow",
+                            "postalCode": "83843",
+                            "region": "ID",
+                            "countryName": "United States",
+                            "countryCode": "us",
+                            "obfuscate": false
+                        },
+                        "welcomeRewards": {
+                            "collect": true
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 9.2,
+                            "rating": "9.2",
+                            "total": 547,
+                            "scale": 10,
+                            "badge": "superb",
+                            "badgeText": "Superb"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "City center",
+                                "distance": "0.6 miles"
+                            },
+                            {
+                                "label": "University of Idaho",
+                                "distance": "0.2 miles"
+                            }
+                        ],
+                        "geoBullets": [],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$154",
+                                "exactCurrent": 154.0,
+                                "fullyBundledPricePerStay": "total $166"
+                            },
+                            "features": {
+                                "freeCancellation": false,
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            },
+                            "type": "EC"
+                        },
+                        "neighbourhood": "Moscow",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|TESCO",
+                        "coordinate": {
+                            "lat": 46.733177,
+                            "lon": -117.014062
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 5963265,
+                        "isAlternative": false,
+                        "optimizedThumbUrls": {
+                            "srpDesktop": "https://exp.cdn-hotels.com/hotels/6000000/5970000/5963300/5963265/6e2818ef_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                        }
+                    }
+                ],
+                "pagination": {
+                    "currentPage": 1,
+                    "pageGroup": "EXPEDIA_IN_POLYGON",
+                    "nextPageStartIndex": 5,
+                    "nextPageNumber": 1,
+                    "nextPageGroup": "TPI_IN_POLYGON"
+                }
+            },
+            "sortResults": {
+                "options": [
+                    {
+                        "label": "Featured",
+                        "itemMeta": "popular",
+                        "choices": [
+                            {
+                                "label": "Featured",
+                                "value": "BEST_SELLER",
+                                "selected": false
+                            }
+                        ],
+                        "enhancedChoices": []
+                    },
+                    {
+                        "label": "Star rating",
+                        "itemMeta": "star",
+                        "choices": [
+                            {
+                                "label": "Stars (high to low)",
+                                "value": "STAR_RATING_HIGHEST_FIRST",
+                                "selected": false
+                            },
+                            {
+                                "label": "Stars (low to high)",
+                                "value": "STAR_RATING_LOWEST_FIRST",
+                                "selected": false
+                            }
+                        ],
+                        "enhancedChoices": []
+                    },
+                    {
+                        "label": "Distance",
+                        "itemMeta": "distance",
+                        "choices": [
+                            {
+                                "label": "Distance to city center",
+                                "value": "DISTANCE_FROM_LANDMARK",
+                                "selected": false
+                            }
+                        ],
+                        "enhancedChoices": [
+                            {
+                                "label": "Landmarks",
+                                "itemMeta": "landmarks",
+                                "choices": [
+                                    {
+                                        "label": "City center",
+                                        "id": 1449014.0
+                                    },
+                                    {
+                                        "label": "Appaloosa Horse Museum",
+                                        "id": 1681419.0
+                                    },
+                                    {
+                                        "label": "Camas Prairie Winery",
+                                        "id": 1717453.0
+                                    },
+                                    {
+                                        "label": "Gritman Medical Center",
+                                        "id": 13238064.0
+                                    },
+                                    {
+                                        "label": "Hamilton-Lowe Aquatics Center",
+                                        "id": 10537364.0
+                                    },
+                                    {
+                                        "label": "Kibbie Dome",
+                                        "id": 1681503.0
+                                    },
+                                    {
+                                        "label": "Latah Trail Bike Path",
+                                        "id": 10537362.0
+                                    },
+                                    {
+                                        "label": "McConnell Mansion Museum",
+                                        "id": 1681417.0
+                                    },
+                                    {
+                                        "label": "New St Andrew's College",
+                                        "id": 1717458.0
+                                    },
+                                    {
+                                        "label": "Palouse Ice Rink",
+                                        "id": 10537363.0
+                                    },
+                                    {
+                                        "label": "University of Idaho",
+                                        "id": 1681464.0
+                                    }
+                                ]
+                            },
+                            {
+                                "label": "Airports",
+                                "itemMeta": "airports",
+                                "choices": [
+                                    {
+                                        "label": "Lewiston, ID (LWS-Nez Perce County Regional)",
+                                        "id": 1645221.0
+                                    },
+                                    {
+                                        "label": "Pullman, WA (PUW-Pullman - Moscow Regional)",
+                                        "id": 1645598.0
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Guest rating",
+                        "itemMeta": "rating",
+                        "choices": [
+                            {
+                                "label": "Guest rating",
+                                "value": "GUEST_RATING",
+                                "selected": false
+                            }
+                        ],
+                        "enhancedChoices": []
+                    },
+                    {
+                        "label": "Price",
+                        "itemMeta": "price",
+                        "selectedChoiceLabel": "Price (low to high)",
+                        "choices": [
+                            {
+                                "label": "Price (high to low)",
+                                "value": "PRICE_HIGHEST_FIRST",
+                                "selected": false
+                            },
+                            {
+                                "label": "Price (low to high)",
+                                "value": "PRICE",
+                                "selected": true
+                            }
+                        ],
+                        "enhancedChoices": []
+                    }
+                ],
+                "distanceOptionLandmarkId": 1449014.0
+            },
+            "filters": {
+                "applied": false,
+                "name": {
+                    "item": {
+                        "value": ""
+                    },
+                    "autosuggest": {
+                        "additionalUrlParams": {
+                            "resolved-location": "CITY:1449014:UNKNOWN:UNKNOWN",
+                            "q-destination": "Moscow, Idaho, United States of America",
+                            "destination-id": "1449014"
+                        }
+                    }
+                },
+                "starRating": {
+                    "applied": false,
+                    "items": [
+                        {
+                            "value": 5,
+                            "disabled": true
+                        },
+                        {
+                            "value": 4
+                        },
+                        {
+                            "value": 3
+                        },
+                        {
+                            "value": 2
+                        },
+                        {
+                            "value": 1,
+                            "disabled": true
+                        }
+                    ]
+                },
+                "guestRating": {
+                    "range": {
+                        "min": {
+                            "defaultValue": 0.0
+                        },
+                        "max": {
+                            "defaultValue": 10.0
+                        }
+                    }
+                },
+                "landmarks": {
+                    "selectedOrder": [],
+                    "items": [
+                        {
+                            "label": "City center",
+                            "value": "1449014"
+                        },
+                        {
+                            "label": "University of Idaho",
+                            "value": "1681464"
+                        },
+                        {
+                            "label": "Pullman, WA (PUW-Pullman - Moscow Regional)",
+                            "value": "1645598"
+                        },
+                        {
+                            "label": "Lewiston, ID (LWS-Nez Perce County Regional)",
+                            "value": "1645221"
+                        },
+                        {
+                            "label": "Kibbie Dome",
+                            "value": "1681503"
+                        },
+                        {
+                            "label": "Appaloosa Horse Museum",
+                            "value": "1681419"
+                        },
+                        {
+                            "label": "Camas Prairie Winery",
+                            "value": "1717453"
+                        },
+                        {
+                            "label": "Hamilton-Lowe Aquatics Center",
+                            "value": "10537364"
+                        },
+                        {
+                            "label": "New St Andrew's College",
+                            "value": "1717458"
+                        },
+                        {
+                            "label": "McConnell Mansion Museum",
+                            "value": "1681417"
+                        },
+                        {
+                            "label": "Palouse Ice Rink",
+                            "value": "10537363"
+                        },
+                        {
+                            "label": "Latah Trail Bike Path",
+                            "value": "10537362"
+                        },
+                        {
+                            "label": "Gritman Medical Center",
+                            "value": "13238064"
+                        }
+                    ],
+                    "distance": []
+                },
+                "accommodationType": {
+                    "applied": false,
+                    "items": [
+                        {
+                            "label": "Apartments",
+                            "value": "15"
+                        },
+                        {
+                            "label": "B&Bs",
+                            "value": "5"
+                        },
+                        {
+                            "label": "Cottages",
+                            "value": "11"
+                        },
+                        {
+                            "label": "Hotels",
+                            "value": "1"
+                        },
+                        {
+                            "label": "Motels",
+                            "value": "7"
+                        },
+                        {
+                            "label": "Vacation homes",
+                            "value": "4"
+                        }
+                    ]
+                },
+                "facilities": {
+                    "applied": false,
+                    "items": [
+                        {
+                            "label": "24-hour front desk",
+                            "value": "2063"
+                        },
+                        {
+                            "label": "Airport transfers",
+                            "value": "513"
+                        },
+                        {
+                            "label": "Bar",
+                            "value": "515"
+                        },
+                        {
+                            "label": "Bathtub in room",
+                            "value": "517"
+                        },
+                        {
+                            "label": "Breakfast included",
+                            "value": "2048"
+                        },
+                        {
+                            "label": "Business facilities",
+                            "value": "519"
+                        },
+                        {
+                            "label": "Connecting rooms available",
+                            "value": "523"
+                        },
+                        {
+                            "label": "Cribs available",
+                            "value": "525"
+                        },
+                        {
+                            "label": "Electric vehicle charging point",
+                            "value": "1073743315"
+                        },
+                        {
+                            "label": "Gym",
+                            "value": "2"
+                        },
+                        {
+                            "label": "Internet Access",
+                            "value": "8"
+                        },
+                        {
+                            "label": "Kitchen",
+                            "value": "32"
+                        },
+                        {
+                            "label": "Meeting Facilities",
+                            "value": "1"
+                        },
+                        {
+                            "label": "Non-smoking",
+                            "value": "529"
+                        },
+                        {
+                            "label": "Parking",
+                            "value": "134234112"
+                        },
+                        {
+                            "label": "Pet Friendly",
+                            "value": "64"
+                        },
+                        {
+                            "label": "Pool",
+                            "value": "128"
+                        },
+                        {
+                            "label": "Restaurant",
+                            "value": "256"
+                        },
+                        {
+                            "label": "Smoking areas",
+                            "value": "537"
+                        },
+                        {
+                            "label": "WiFi included",
+                            "value": "527"
+                        }
+                    ]
+                },
+                "accessibility": {
+                    "applied": false,
+                    "items": [
+                        {
+                            "label": "Accessibility equipment for the deaf",
+                            "value": "2097152"
+                        },
+                        {
+                            "label": "Accessible bathroom",
+                            "value": "131072"
+                        },
+                        {
+                            "label": "Accessible parking",
+                            "value": "524288"
+                        },
+                        {
+                            "label": "Accessible path of travel",
+                            "value": "65536"
+                        },
+                        {
+                            "label": "Braille or raised signage",
+                            "value": "4194304"
+                        },
+                        {
+                            "label": "In-room accessibility",
+                            "value": "1048576"
+                        },
+                        {
+                            "label": "Roll-in shower",
+                            "value": "262144"
+                        },
+                        {
+                            "label": "Wheelchair accessible rooms",
+                            "value": "541"
+                        }
+                    ]
+                },
+                "themesAndTypes": {
+                    "applied": false,
+                    "items": [
+                        {
+                            "label": "Adventure",
+                            "value": "18"
+                        },
+                        {
+                            "label": "Business",
+                            "value": "14"
+                        },
+                        {
+                            "label": "Family-friendly",
+                            "value": "25"
+                        },
+                        {
+                            "label": "Golf",
+                            "value": "26"
+                        },
+                        {
+                            "label": "LGBTQ Welcoming",
+                            "value": "21"
+                        },
+                        {
+                            "label": "Romantic",
+                            "value": "1"
+                        }
+                    ]
+                },
+                "price": {
+                    "label": "Nightly Price",
+                    "range": {
+                        "min": {
+                            "defaultValue": 0
+                        },
+                        "max": {
+                            "defaultValue": 500
+                        },
+                        "increments": 5
+                    },
+                    "multiplier": 1
+                },
+                "paymentPreference": {
+                    "items": [
+                        {
+                            "label": "Free cancellation",
+                            "value": "fc"
+                        },
+                        {
+                            "label": "Pay with Hotels.com gift card",
+                            "value": "gc"
+                        }
+                    ]
+                },
+                "welcomeRewards": {
+                    "label": "Hotels.com\u00ae Rewards",
+                    "items": [
+                        {
+                            "label": "Collect stamps",
+                            "value": "collect"
+                        },
+                        {
+                            "label": "Redeem reward* nights",
+                            "value": "redeem"
+                        }
+                    ]
+                }
+            },
+            "pointOfSale": {
+                "currency": {
+                    "code": "USD",
+                    "symbol": "$",
+                    "separators": ",.",
+                    "format": "${0}"
+                }
+            },
+            "miscellaneous": {
+                "pageViewBeaconUrl": "/taps/v1/PageView?deviceType=App-Phone&sort-order=PRICE&rooms=1&destRegionID=1449014&hotelIds=45581792,213743,206843,703890496,430455&adults=1&userAgent=Hotels.com/Android%2080.0.1.9.release-80_0%20(80000660)&userGuid=a3141773-6333-4812-9316-39e74d3ecd45&pageName=Hotel-Search&slots=HSR_A,HSR_B,HSR_C,HSR_D,HSR_E,HSR_F,HSR_G,HSR_H,HSR_I,HSR_J&checkIn=2022-08-02&children=0&culture=en_US&testVersionOverride=4961.0,904.0,7561.0,7215.0,8218.0,8711.0,8928.1,9008.0,8347.2,9004.0,8952.0,7992.2,8915.0,9729.0,9864.0,10155.0,10185.0,10473.0,10320.0,10361.0&domain=www.hotels.com&userIP=45.31.237.111&action=pageview&publisher=expedia&checkOut=2022-08-03&programId=1",
+                "showLegalInfoForStrikethroughPrices": true,
+                "legalInfoForStrikethroughPrices": "The struck-out price is based on the property\u2019s standard rate on our app, as determined and supplied by the property.",
+                "compressionMessaging": {
+                    "percentage": 55,
+                    "popularityMessage": "We are 55% booked for your travel dates. Don\u2019t wait until it\u2019s too late, book now."
+                }
+            },
+            "pageInfo": {
+                "pageType": "dateful"
+            }
+        },
+        "common": {
+            "pointOfSale": {
+                "numberSeparators": ",.",
+                "brandName": "Hotels.com"
+            },
+            "tracking": {
+                "omniture": {
+                    "s.prop33": "D=v33",
+                    "s.prop32": "D=v43",
+                    "s.prop74": "search result with dates | ms shown | N",
+                    "s.products": "MULTISOURCE;1393181,MULTISOURCE;51102,MULTISOURCE;904780",
+                    "s.eVar16": "Mob :: aApp",
+                    "s.eVar40": "D=v0",
+                    "s.eVar41": "USD",
+                    "s.eVar63": "41d61c04-ed5a-48f0-9485-adf099414b6f",
+                    "s.eVar42": "0|1|20220802|20220803",
+                    "s.eVar4": "|SI:anonymous|VS:returnVisitor|HCR:notApplicable|FC:notApplicable|NS:unknown|TI:notApplicable|SM:notApplicable|IR:anonymous|",
+                    "s.eVar43": "en_US|HCOM_US|www.hotels.com",
+                    "s.eVar3": "1|0",
+                    "s.eVar22": "1|USD|24:45581792:76.6300:68.9700:1|24:213743:84.0000:84.0000:0|24:206843:119.0000:119.0000:0|24:703890496:135.3800:121.8400:0|24:430455:154.0000:154.0000:0",
+                    "s.eVar2": "Moscow, Idaho, United States of America",
+                    "s.eVar24": "MCTC=20;TU=NA;PDID=NULL;MVT=",
+                    "s.eVar7": "0",
+                    "s.server": "www.hotels.com",
+                    "s.eVar6": "1449014",
+                    "s.prop29": "D=v42",
+                    "s.eVar5": "1",
+                    "s.prop27": "a3141773-6333-4812-9316-39e74d3ecd45",
+                    "s.eVar9": "Price - low to high",
+                    "s.prop21": "0",
+                    "s.prop20": "1",
+                    "s.eVar69": "Mob :: aApp",
+                    "s.currencyCode": "USD",
+                    "s.eVar26": "US:AL:OXFORD:630",
+                    "s.eVar29": "Mob :: aApp",
+                    "s.prop9": "47",
+                    "s.eVar95": "Unknown",
+                    "s.prop7": "29",
+                    "s.eVar31": "D=v0",
+                    "s.eVar32": "D=v0",
+                    "s.eVar33": "search result with dates",
+                    "s.eVar34": "H1871:007.002,M376:000.000,M904:000.000,M3736:000.000,M4200:000.000,M4440.2,M4869:001.000,M4952:050.001,M4961:001.000,M5184:001.000,M5342:000.000,M5663:000.000,M6388:000.000,M6775:000.000,M6779:000.000,M7015.1,M7192:000.000,M7215:000.000,M7296:000.000,M7305:000.000,M7306:000.000,M7353:000.000,M7362.1,M7552:023.001,M7763:000.000,M7765.2,M7870:000.000,M7895:000.000,M8336:000.000,M8347:019.002,M8405:002.001,M8483:000.000,M8692:000.000,M8693:000.000,M8698:000.000,M8708:000.000,M8718:000.000,M8915:000.000,M8928:019.001,M8952:000.000,M8976:000.000,M8992:000.000,M9035:000.000,M9155:000.000,M9220:000.000,M9281:000.000,M9282:000.000,M9297:000.000,M9301:000.000,M9351:000.000,M9420:000.000,M9431:000.000,M9469:000.000,M9549:000.000,M9567.1,M9691:000.000,M9693:000.000,M9699:004.001,M9729:000.000,M9752:000.000,M9771.0,M9864:000.000,M9924:000.000,M9961:000.000,M9971:000.000,M10001:000.000,M10007:000.000,M10013:002.001,M10086:000.000,M10121:000.000,M10137:000.000,M10155:000.000,M10185:000.000,M10248:000.000,M10259:000.000,M10282:000.000,M10300:000.000,M10320:000.000,M10361:000.000,M10473:000.000,M10482:000.000,M9215:001.001",
+                    "s.eVar13": "389367",
+                    "s.prop19": "1",
+                    "s.events": "event324,event320",
+                    "s.prop18": "D=v6",
+                    "s.prop5": "389367",
+                    "s.prop15": "1",
+                    "s.prop3": "Moscow, Idaho, United States of America",
+                    "s.prop14": "D=v7",
+                    "s.prop36": "|SI:anonymous|VS:returnVisitor|HCR:notApplicable|FC:notApplicable|NS:unknown|TI:notApplicable|SM:notApplicable|IR:anonymous|",
+                    "s.eVar93": "aws.us-east-1.unknown",
+                    "s.prop2": "Price - low to high"
+                }
+            }
+        }
+    }
+}
